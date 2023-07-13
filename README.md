@@ -1,6 +1,6 @@
 ### Hi there I'm fern👋
 
-Welcome to my blog. [Let's go](http://www.hi-hufei.com)
+Welcome to my blog. [Let's go](http:/blog.calidune.org)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernfei)](https://github.com/anuraghazra/github-readme-stats)
 
